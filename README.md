@@ -1,6 +1,7 @@
 Hi, I’m HacktheBox-del
 I’m interested network Security
 I’m currently learning network Security
+for accessing this project you need to setup the vpn
 
 
 <!---
